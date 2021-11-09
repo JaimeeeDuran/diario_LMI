@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Formulario</title>
+    <meta charset="UFT-8">
+    <meta http-equiv="">
+</head>
+
+<body>
+    <form >
+        <fieldset>
+            <legend> Datos Personales</legend>
+            <label for="name">Nombre:</label>
+            <input type="text" name="Enombre" placeholder="Escriba aquí su nombre...">
+            <label for="name">1er Apellido:</label>
+            <input type="text" name="E1Apellido" placeholder="Escriba aquí su apellido...">
+            <label for="name">2º Apellido:</label>
+            <input type="text" name="E2Apellido" placeholder="Escriba aquí su apellido...">
+            <label for="dni">DNI:</label>
+            <input type="text" maxlength="8" name="EDNI">
+            <label for="">Letra:</label>
+            <input type="text" maxlength="1" name="EDMILetra" size="1">
+            <label for="birthday">Fecha Nacimiento:</label>
+            <input type="date" name="ENacimiento" id="birthday">
+            <label for="">Género:</label>
+            <input type="radio" name="EGenero" value="Masculino">
+            <label for="">Masculino</label>
+            <input type="radio" name="EGenero" value="Femenino">
+            <label for="">Femenino</label>
+        </fieldset>
+        <fieldset>
+            <legend>Datos Académicos</legend>
+            <select name="Etipo">
+                <option value="basic">Basico 5€</option>
+                <option  value="plus">Plus 10€</option>
+                <option selected value="pro" >Hazte Pro 3000€</option>
+            </select><br><br>
+                <input type="file"><br><br>
+                <label>Reseña:</label>
+                <textarea name="EReseña" id="" cols="10" rows="3" placeholder="Texto aquí..."></textarea>
+            
+        </fieldset>
+        <input type="submit">
+        <input type="reset">
+    </form>
+</body>
+</html>

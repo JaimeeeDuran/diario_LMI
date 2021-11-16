@@ -1,0 +1,50 @@
+#nospace {
+
+    line-height: 0%;
+}
+
+
+#line {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+    text-shadow: 1px 1px 20px black;
+}
+
+#nocenter{
+
+    vertical-align: top;
+    padding: 20px;
+}
+
+#colorTable {
+    background-color: teal;
+}
+
+body {
+
+    font-family: 'Cabin', sans-serif;
+    
+
+}
+
+a:hover {
+
+
+}
+
+a:link {
+
+
+}
+
+a:visited {
+
+
+}
+
+a:active {
+
+
+}

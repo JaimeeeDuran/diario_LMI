@@ -1,3 +1,30 @@
-h2{
-    color: red;
+h2 {
+
+    color: darkgreen;
 }
+
+#asir {
+
+    color: blue;
+}
+
+#titulo {
+
+    text-align: center;
+}
+
+#nav {
+
+    background-color: rgb(175, 238, 201);
+    border: 5px ridge red;
+}
+
+body {
+    font-size: 20px;
+    text-align: center;
+    background-color: grey;
+    font-family: 'Cabin', sans-serif;
+    text-shadow: 1px 1px 20px whitesmoke;
+
+}
+

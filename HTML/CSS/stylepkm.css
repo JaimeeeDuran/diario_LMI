@@ -1,0 +1,48 @@
+.pokemon{
+
+    text-align: center;
+    font-size: 50px;
+}
+
+#bulbasaur{
+
+    text-align: center;
+    font-size: 50px;
+    background-color: green;
+    color: white;
+
+}
+
+.planta{
+
+    padding: 0px;
+    text-align: center;
+    font-size: 50px;
+    background-color: green;
+    color: white;
+
+}
+
+.fuego{
+
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    color: yellow;
+}
+
+.agua{
+
+    text-align: center;
+    font-size: 50px;
+    background-color: aquamarine;
+    color: white;
+
+}
+
+.veneno2{
+
+    padding: 0px;
+    border: 15px solid purple;
+
+}

@@ -1,0 +1,28 @@
+#texto1{
+    border: 20px solid red;
+    width: 25%;
+    position: relative;
+    left: 50px;
+}
+
+#texto2{
+    border: 20px solid green;
+    width: 25%;
+    position: relative;
+    left: 50px;
+}
+
+#texto3{
+    border: 20px solid blue;
+    width: 25%;
+    position: relative;
+    left: 565px;
+    bottom: 288px;
+}
+
+#texto4{
+    border: 20px solid yellow;
+    width: 25%;
+    position: relative;
+    left: 565px;
+    bottom: 288px;

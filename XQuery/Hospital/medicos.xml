@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<medicos>
+
+<medico>
+<nombre>Miguel</nombre>
+<apellidos>Pérez Coronel</apellidos>
+<especialidad>Traumatologia</especialidad>
+<pacientes>
+<paciente>
+<historial_clinico codigoPaciente="8503" prioridad="Baja" cantidad_medicamento="5" operacion="No" />
+<historial_clinico codigoPaciente="5359" prioridad="Media" cantidad_medicamento="2" operacion="Si" />
+<historial_clinico codigoPaciente="9848" prioridad="Alta" cantidad_medicamento="7" operacion="Si" />
+
+</paciente>
+</pacientes>
+</medico>
+
+<medico>
+<nombre>Javier</nombre>
+<apellidos>Ramirez Benito</apellidos>
+<especialidad>Neurologia</especialidad>
+<pacientes>
+<paciente>
+<historial_clinico codigoPaciente="5585" prioridad="Baja" cantidad_medicamento="4" operacion="No" />
+
+
+</paciente>
+</pacientes>
+</medico>
+
+<medico>
+<nombre>Maria</nombre>
+<apellidos>Ramos López</apellidos>
+<especialidad>Endocrinologia</especialidad>
+<pacientes>
+<paciente>
+<historial_clinico codigoPaciente="2922" prioridad="Baja" cantidad_medicamento="5" operacion="No" />
+<historial_clinico codigoPaciente="9465" prioridad="Media" cantidad_medicamento="6" operacion="No" />
+
+</paciente>
+</pacientes>
+</medico>
+
+<medico>
+<nombre>Marta</nombre>
+<apellidos>Campos Villanueva</apellidos>
+<especialidad>Cardiologia</especialidad>
+<pacientes>
+<paciente>
+<historial_clinico codigoPaciente="4531" prioridad="Alta" cantidad_medicamento="5" operacion="Si" />
+<historial_clinico codigoPaciente="1488" prioridad="Alta" cantidad_medicamento="2" operacion="Si" />
+
+</paciente>
+</pacientes>
+</medico>
+
+<medico>
+<nombre>Ángel</nombre>
+<apellidos>Almansa Pérez</apellidos>
+<especialidad>Reumatologia</especialidad>
+<pacientes>
+<paciente>
+<historial_clinico codigoPaciente="7030" prioridad="Baja" cantidad_medicamento="1" operacion="No" />
+<historial_clinico codigoPaciente="2822" prioridad="Media" cantidad_medicamento="3" operacion="No" />
+
+</paciente>
+</pacientes>
+</medico>
+
+</medicos>

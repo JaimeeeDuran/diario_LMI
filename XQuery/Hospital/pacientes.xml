@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+
+<paciente codigoPaciente="8503">
+<nombre>Saturnino </nombre>
+<apellidos>Hoyos</apellidos>
+<fecha_ingreso>01/3/2022</fecha_ingreso>
+<edad>42</edad>
+</paciente>
+
+<paciente codigoPaciente="5359">
+<nombre>Olalla</nombre>
+<apellidos>Tomas</apellidos>
+<fecha_ingreso>15/3/2022</fecha_ingreso>
+<edad>27</edad>
+</paciente>
+
+<paciente codigoPaciente="9848">
+<nombre>Teresa</nombre>
+<apellidos>Carretero-Cerezo</apellidos>
+<fecha_ingreso>20/03/2022</fecha_ingreso>
+<edad>32</edad>
+</paciente>
+
+<paciente codigoPaciente="5585">
+<nombre>Josep</nombre>
+<apellidos>Cruz</apellidos>
+<fecha_ingreso>14/03/2022</fecha_ingreso>
+<edad>51</edad>
+</paciente>
+
+<paciente codigoPaciente="2922">
+<nombre>Cristobal</nombre>
+<apellidos>Cervantes</apellidos>
+<fecha_ingreso>08/03/2022</fecha_ingreso>
+<edad>55</edad>
+</paciente>
+
+<paciente codigoPaciente="9465">
+<nombre>Emilio</nombre>
+<apellidos>Escobar</apellidos>
+<fecha_ingreso>11/03/2022</fecha_ingreso>
+<edad>17</edad>
+</paciente>
+
+<paciente codigoPaciente="4531">
+<nombre>Carmen</nombre>
+<apellidos>Carvajal</apellidos>
+<fecha_ingreso>03/03/2022</fecha_ingreso>
+<edad>42</edad>
+</paciente>
+
+<paciente codigoPaciente="1488">
+<nombre>Melisa</nombre>
+<apellidos>Cano</apellidos>
+<fecha_ingreso>19/03/2022</fecha_ingreso>
+<edad>23</edad>
+</paciente>
+
+<paciente codigoPaciente="7030">
+<nombre>César</nombre>
+<apellidos>Alejo</apellidos>
+<fecha_ingreso>07/03/2022</fecha_ingreso>
+<edad>38</edad>
+</paciente>
+
+<paciente codigoPaciente="2822">
+<nombre>Otilia</nombre>
+<apellidos>Sáenz</apellidos>
+<fecha_ingreso>23/03/2022</fecha_ingreso>
+<edad>70</edad>
+</paciente>
+
+</pacientes>

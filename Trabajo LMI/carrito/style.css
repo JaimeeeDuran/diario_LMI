@@ -1,0 +1,43 @@
+.productos {
+    align-content: center;
+}
+
+img.fcarrito {
+    max-width: 117px;
+    max-height: 117px;
+}
+
+.imgWT {
+    float: right;
+    vertical-align: middle;
+    padding-left: 30px;
+}
+
+input {
+    width: 35px;
+    height: 25px;
+}
+
+table {
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+
+
+hr {
+    width: 1000px;
+}
+
+.wt {
+    vertical-align: top;
+}
+
+tr,
+td {
+    border: solid black;
+}
+.sub {
+    text-align: left;
+    margin-right: 70%;
+}

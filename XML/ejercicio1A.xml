@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE CampeonatoF1 [
+<!ELEMENT CampeonatoF1 (Escuderia+)>
+<!ELEMENT Escuderia (Nombre,Coche+,Piloto+,Tester)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Coche (#PCDATA)>
+<!ATTLIST Coche chasis CDATA "">
+<!ATTLIST Coche motor CDATA "">
+<!ATTLIST Coche neumatico CDATA "">
+<!ELEMENT Piloto (#PCDATA)>
+<!ATTLIST Piloto num CDATA "">
+<!ATTLIST Piloto siglas CDATA "">
+<!ELEMENT Tester (#PCDATA)>
+
+]>
+
+
+<CampeonatoF1>
+
+<Escuderia>
+<Nombre>Mercedes-AMG Petronas Formula One Team</Nombre>
+<Coche chasis="w12" motor="Mercedes-AMG M12 E Perfomance" neumatico="Pirelli">Mercedes</Coche>
+<Piloto num="44" siglas="HAM">Lewis Hamilton</Piloto>
+<Piloto num="77" siglas="BOT">Valtteri Bottas</Piloto>
+<Tester>Geroge Russell</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Red Bull Racing Honda</Nombre>
+<Coche chasis="RB16B" motor="Honda RA621H" neumatico="Pirelli">Red Bull</Coche>
+<Piloto num="11" siglas="PER">Sergio Perez</Piloto>
+<Piloto num="33" siglas="VER">Max Verstappen</Piloto>
+<Tester>Jüri Vips</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>McLaren F1 Team</Nombre>
+<Coche chasis="MCL35M" motor="Mercedes-AMG M12 E Perfomance" neumatico="Pirelli">McLaren</Coche>
+<Piloto num="3" siglas="RIC">Daniel Ricciardo</Piloto>
+<Piloto num="4" siglas="NOR">Lando Norris</Piloto>
+<Tester>Patricio O'Ward</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Aston Martin Cognizant Formula One Team</Nombre>
+<Coche chasis="AMR21" motor="Mercedes-AMG M12 E Perfomance" neumatico="Pirelli">Aston Martin</Coche>
+<Piloto num="5" siglas="VET">Sebastian Vettel</Piloto>
+<Piloto num="18" siglas="STR">Lance Stroll</Piloto>
+<Tester>Nick Yelloly</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Alpine F1 Team</Nombre>
+<Coche chasis="A521" motor="Renault E-Tech 20B" neumatico="Pirelli">Alpine</Coche>
+<Piloto num="14" siglas="ALO">Fernando Alonso</Piloto>
+<Piloto num="31" siglas="OCO">Esteban Ocon</Piloto>
+<Tester>Oscar Piastri</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Ferrari Mission Window</Nombre>
+<Coche chasis="SF21" motor="Ferrari 065/6" neumatico="Pirelli">Ferrari</Coche>
+<Piloto num="16" siglas="LEC">Charles Leclerc</Piloto>
+<Piloto num="55" siglas="SAI">Carlos Sainz Jr</Piloto>
+<Tester>Antonio Fuoco</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>AlphaTauri Honda</Nombre>
+<Coche chasis="AT02" motor="Honda RA621H" neumatico="Pirelli">Alpha Tauri</Coche>
+<Piloto num="10" siglas="GAS">Pierre Gasly</Piloto>
+<Piloto num="22" siglas="TSU">Yuki Tsunoda</Piloto>
+<Tester>Liam Lawson</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Alfa Romeo Racing ORLEN</Nombre>
+<Coche chasis="C41" motor="Ferrari 065/6" neumatico="Pirelli">Alfa Romeo</Coche>
+<Piloto num="7" siglas="RAI">Kimi Räikkonën</Piloto>
+<Piloto num="99" siglas="GIO">Antonio Giovinazzi</Piloto>
+<Tester>Robet Kubica</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Aralkali Haas F1 Team</Nombre>
+<Coche chasis="VF-21" motor="Ferrari 065/6" neumatico="Pirelli">Haas</Coche>
+<Piloto num="9" siglas="MAZ">Nikita Mazepin</Piloto>
+<Piloto num="47" siglas="MSC">Mick Schumacher</Piloto>
+<Tester>Pietro Fittipaldi</Tester>
+</Escuderia>
+
+<Escuderia>
+<Nombre>Williams Racing</Nombre>
+<Coche chasis="FW43B" motor="Mercedes-AMG M12 E Perfomance" neumatico="Pirelli">Williams</Coche>
+<Piloto num="6" siglas="LAT">Nicholas Latifi</Piloto>
+<Piloto num="63" siglas="GIO">George Russel</Piloto>
+<Tester>Logan Sargeant</Tester>
+</Escuderia>
+
+</CampeonatoF1>

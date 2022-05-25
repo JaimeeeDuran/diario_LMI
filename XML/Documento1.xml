@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+
+<persona dni="32095476D">
+<nombre>Paco</nombre>
+<edad>47</edad>
+<ciudad>Córdoba</ciudad>
+</persona>
+
+<persona dni="32540952S">
+<nombre>Patxi</nombre>
+<edad>38</edad>
+<ciudad>Vitoria</ciudad>
+</persona>
+
+<persona dni="32457833Z">
+<nombre>Jesé</nombre>
+<edad>24</edad>
+<ciudad>Tenerife</ciudad>
+</persona>
+
+</personas>

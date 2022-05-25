@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Formulario</title>
+    <meta charset="UFT-8">
+    <meta http-equiv="">
+</head>
+
+<body>
+    <form method="post" target="_blank" action="../Examen/index.html">
+        <fieldset>
+            <legend> Datos para reservar una sala</legend>
+            <label for="name">Nombre:</label>
+            <input type="text" name="Enombre" placeholder="Escriba aquí (Obligatorio)"><br><br>
+
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" name="EApellidos" placeholder="Escriba aquí (Obligatorio)"><br><br>
+
+            <label for="telefono">Teléfono</label>
+            <input type="text" name="ETelefono" placeholder="Escriba aquí" maxlength="9"><br><br>
+
+            <label for="dni">DNI:</label>
+            <input type="text" maxlength="9" name="EDNI"><br><br><br>
+
+            <label for="birthday">Fecha Nacimiento:</label>
+            <input type="date" name="ENacimiento" id="birthday"><br><br>
+
+            <label for="act">Actividad de la Sala:</label><br>
+            <input type="radio" name="EAct" value="Ruleta">
+            <label for="Ruleta">Ruleta</label>
+            <input type="radio" name="EAct" value="Blackjack">
+            <label for="BlackJack">BlackJack</label>
+            <input type="radio" name="EAct" value="Texas Holden">
+            <label for="TexasHolden">Texas Holden</label>
+            <input type="radio" name="EAct" value="Póker">
+            <label for="BlackJack">Póker</label><br><br>
+        
+            <label for="DiaReserva">Día de la reserva:</label>
+            <input type="datetime-local" name="EReserva" id=Reserva><br><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Datos de la Pareja de Juego</legend>
+
+            <label for="name2">Nombre:</label>
+            <input type="text" name="Enombre2" placeholder="Escriba aquí (Obligatorio)"><br><br>
+            
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" name="EApellidos2" placeholder="Escriba aquí (Obligatorio)"><br><br>
+
+            <label for="telefono">Teléfono</label>
+            <input type="text" name="ETelefono2" placeholder="Escriba aquí" maxlength="9"><br><br>
+
+            <label for="dni2">DNI:</label>
+            <input type="text" maxlength="9" name="EDNI2"><br><br><br>
+
+            <label for="birthday2">Fecha Nacimiento:</label>
+            <input type="date" name="ENacimiento2" id="birthday2"><br><br>
+
+            <Label for="DniScan">Fotocopia del DNI</Label><br>
+            <input type="file">
+           
+
+        </fieldset>
+       
+        <fieldset>
+            <legend>Observaciones</legend>
+            
+                <input type="file"><br><br>
+                <label>Reseña:</label><br>
+                <textarea name="EReseña" id="" cols="57" rows="4" placeholder="Utilice este cuadro para escribrir"></textarea>
+            
+        </fieldset>
+        <input type="submit" value="Enviar solicitud de reserva">
+        <input type="reset" value="Restablecer">
+    </form>
+</body>
+</html>

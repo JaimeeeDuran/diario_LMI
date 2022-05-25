@@ -12,6 +12,13 @@
     text-shadow: 1px 1px 20px black;
 }
 
+.cuadro{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+}
+
 #nocenter{
 
     vertical-align: top;

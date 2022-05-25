@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mundial10 [
+<!ELEMENT mundial10 (mundial+)>
+<!ELEMENT mundial (equipo,posicion,ciudad)>
+<!ELEMENT equipo (#PCDATA)>
+<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ATTLIST ciudad provincia CDATA "">
+]>
+
+<mundial10>
+
+<mundial>
+<equipo>Alemania</equipo>
+<posicion>Semifinales</posicion>
+<ciudad provincia="Gauteng">Centurion</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Argelia</equipo>
+<posicion>Cuartos</posicion>
+<ciudad provincia="KwaZulu-Natal">Centurion</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Argentina</equipo>
+<posicion>Semifinales</posicion>
+<ciudad provincia="Gauteng">Pretoria</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Australia</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Muldersdrift</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Brasil</equipo>
+<posicion>Cuartos</posicion>
+<ciudad provincia="Gauteng">Johannesburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Camerún</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="KwaZulu-Natal">Durban</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Chile</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Mpumalanga">Nelspruit</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Corea del Norte</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Noroeste">Rustenburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Corea del Sur</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Centurion</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Costa de Marfil</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="KwaZulu-Natal">Durban</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Dinamarca</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Cabo Occidental">Knysna</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Eslovaquia</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Pretoria</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Eslovenia</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Johannesburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Alemania</equipo>
+<posicion>Semifinales</posicion>
+<ciudad provincia="Gauteng">Centurion</ciudad>
+</mundial>
+
+<mundial>
+<equipo>España</equipo>
+<posicion>Campeona</posicion>
+<ciudad provincia="Noroeste">Potchefstroom</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Estados Unidos</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Pretoria</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Francia</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Cabo Occidental">Knysna</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Ghana</equipo>
+<posicion>Cuartos</posicion>
+<ciudad provincia="Gauteng">Gauteng</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Grecia</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="KwaZulu-Natal">Durban</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Honduras</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Johannesburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Inglaterra</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Noroeste">Rustenburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Italia</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Centurion</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Japón</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Cabo Occidental">George</ciudad>
+</mundial>
+
+<mundial>
+<equipo>México</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Johannesburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Nigeria</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="KwaZulu-Natal">Durban</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Nueva Zelanda</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Johannesburgo</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Paraguay</equipo>
+<posicion>Cuartos</posicion>
+<ciudad provincia="KwaZulu-Natal">Pietermaritzburg</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Portugal</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Magaliesburg</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Serbia</equipo>
+<posicion>Octavos</posicion>
+<ciudad provincia="Gauteng">Magaliesburg</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Sudáfrica</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Sandton</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Suiza</equipo>
+<posicion>Fase de Grupo</posicion>
+<ciudad provincia="Gauteng">Vanderbijlpark</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Uruguay</equipo>
+<posicion>Semifinales</posicion>
+<ciudad provincia="Cabo del Norte">Kimberley</ciudad>
+</mundial>
+
+<mundial>
+<equipo>Árbitros</equipo>
+<posicion>Todo el torneo</posicion>
+<ciudad provincia="Gauteng">Pretoria</ciudad>
+</mundial>
+
+</mundial10>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<grieta>
+<jornada numero="3">
+
+<objetos>
+<objeto referencia="ob01">
+<nombre>Viento Huracanado</nombre>
+<tipo clase="mitico"/>
+<aporte>Daño fisico</aporte>
+</objeto>
+
+<objeto referencia="ob02">
+<nombre>Medallón de los Solari de Hierro</nombre>
+<tipo clase="mitico"/>
+<aporte>Defensa</aporte>
+</objeto>
+
+<objeto referencia="ob03">
+<nombre>Llamasombría</nombre>
+<tipo clase="legendario"/>
+<aporte>Daño mágico</aporte>
+</objeto>
+
+<objeto referencia="ob04">
+<nombre>Presagio de Randuin</nombre>
+<tipo clase="legendario"/>
+<aporte>Defensa</aporte>
+</objeto>
+
+<objeto referencia="ob05">
+<nombre>Arcoescudo inmortal</nombre>
+<tipo clase="mitico"/>
+<aporte>Daño fisico</aporte>
+</objeto>
+
+<objeto referencia="ob06">
+<nombre>Escarcha eterna</nombre>
+<tipo clase="mitico"/>
+<aporte>Daño mágico</aporte>
+</objeto>
+
+<objeto referencia="ob07">
+<nombre>Cadenas de Anatema</nombre>
+<tipo clase="legendario"/>
+<aporte>Vida</aporte>
+</objeto>
+<objeto referencia="ob08">
+<nombre>Cañón de fuego rápido</nombre>
+<tipo clase="legendario"/>
+<aporte>Velocidad de ataque</aporte>
+</objeto>
+</objetos>
+
+<campeones>
+<campeon jugador="Kobbe">
+<nombre_pj>Jhin</nombre_pj>
+<posicion>ADC</posicion>
+<region>Jonia</region>
+<inventario>
+<objeto referencia="ob08"/>
+</inventario>
+
+</campeon>
+<campeon jugador="Zanzarah">
+<nombre_pj>Trundle</nombre_pj>
+<posicion>Jungla</posicion>
+<region>Freljord</region>
+<inventario>
+<objeto referencia="ob07"/>
+</inventario>
+
+</campeon>
+<campeon jugador="Dajor">
+<nombre_pj>Ryze</nombre_pj>
+<posicion>Mid</posicion>
+<region>Runaterra</region>
+<inventario>
+<objeto referencia="ob06"/>
+</inventario>
+
+</campeon>
+<campeon jugador="BrokenBlade">
+<nombre_pj>Yone</nombre_pj>
+<posicion>Top</posicion>
+<region>Jonia</region>
+<inventario>
+<objeto referencia="ob05"/>
+</inventario>
+</campeon>
+<campeon jugador="Jankos">
+<nombre_pj>Jarvan IV</nombre_pj>
+<posicion>Jungla</posicion>
+<region>Demacia</region>
+<inventario>
+<objeto referencia="ob04"/>
+</inventario>
+
+</campeon>
+<campeon jugador="CaPs">
+<nombre_pj>Viktor</nombre_pj>
+<posicion>Mid</posicion>
+<region>Zaun</region>
+<inventario>
+<objeto referencia="ob03"/>
+</inventario>
+
+</campeon>
+<campeon jugador="Targamas">
+<nombre_pj>Braum</nombre_pj>
+<posicion>Support</posicion>
+<region>Freljord</region>
+<inventario>
+<objeto referencia="ob02"/>
+</inventario>
+</campeon>
+<campeon jugador="Flakked">
+<nombre_pj>Jinx</nombre_pj>
+<posicion>ADC</posicion>
+<region>Zaun</region>
+<inventario>
+<objeto referencia="ob01"/>
+</inventario>
+</campeon>
+
+</campeones>
+
+</jornada>
+</grieta>

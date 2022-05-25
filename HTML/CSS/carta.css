@@ -1,0 +1,51 @@
+.plato{
+    text-align: justify;
+    font-weight: bold;
+
+    width: 300px;
+    padding: 50px;
+    margin: 25px;
+}
+
+.macarron{
+    background-color: rgb(204, 35,35);
+    border: 7px solid red;
+}
+
+.lasaña{
+    background-color: yellow;
+    border: 7px solid red;
+}
+
+.pizza{
+    background-color: brown;
+    border: 7px solid red;
+
+}
+.canelones{
+    background-color: green;
+    border: 7px solid red;
+
+}
+
+.tortellini{
+    background-color: sandybrown;
+    border: 7px solid red;
+    background-image: url(https://dam.cocinafacil.com.mx/wp-content/uploads/2019/11/tortellini-receta.jpg);
+    background-size: 414px 315px;
+    color: white;
+}
+
+.fizquierda{
+    float: left;
+
+}
+
+.fderecha{
+    float: right;
+}
+
+#opacida:hover{
+    opacity: 1;
+}
+

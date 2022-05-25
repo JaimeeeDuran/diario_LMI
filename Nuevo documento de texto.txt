@@ -1,0 +1,61 @@
+Color
+
+Border
+
+Background-color
+
+Color
+
+Image
+
+size
+
+Font-size
+
+text-align
+
+Font-weight
+
+Text-shadow
+
+Font-family
+
+List-style-type
+
+Opacity
+
+:hover
+
+:active
+
+:link
+
+:visite
+
+div
+	id
+	class
+
+position
+	static
+	relative
+		left
+		right
+		top
+		bottom
+float
+	left
+	right
+
+clear
+	left
+	right
+	both
+
+visibility
+	hidden
+
+	content --> with/height
+
+	padding
+

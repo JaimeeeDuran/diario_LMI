@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<medicamentos>
+	<receta codigoPaciente="8503">
+		<nombre>Warfarin Sodium</nombre>
+		<precio>15</precio>
+		<fabricado_en>Spain</fabricado_en>
+	</receta>
+<receta codigoPaciente="8503">
+		<nombre>Digoxin</nombre>
+		<precio>18</precio>
+		<fabricado_en>Australia</fabricado_en>
+	</receta>
+	<receta codigoPaciente="8503">
+		<nombre>Venlafaxine HCl ER</nombre>
+		<precio>16</precio>
+		<fabricado_en>Italy</fabricado_en>
+	</receta>
+	<receta codigoPaciente="8503">
+		<nombre>Levothyroxine Sodium</nombre>
+		<precio>15</precio>
+		<fabricado_en>Italy</fabricado_en>
+	</receta>
+	<receta codigoPaciente="8503">
+		<nombre>Hydrocodone/APAP</nombre>
+		<precio>17</precio>
+		<fabricado_en>Canada</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5359">
+		<nombre>Levoxyl</nombre>
+		<precio>13</precio>
+		<fabricado_en>Germany</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5359">
+		<nombre>Omeprazole (Rx)</nombre>
+		<precio>19</precio>
+		<fabricado_en>Germany</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Metoprolol Succinatee</nombre>
+		<precio>13</precio>
+		<fabricado_en>Belgium</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Vyvanse</nombre>
+		<precio>16</precio>
+		<fabricado_en>France</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Metoprolol Tartrate</nombre>
+		<precio>10</precio>
+		<fabricado_en>United Kingdom</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Amphetamine Salts</nombre>
+		<precio>12</precio>
+		<fabricado_en>Canada</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Warfarin Sodium</nombre>
+		<precio>16</precio>
+		<fabricado_en>Russian Federation</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Clonazepam</nombre>
+		<precio>11</precio>
+		<fabricado_en>China</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9848">
+		<nombre>Losartan Potassium</nombre>
+		<precio>18</precio>
+		<fabricado_en>China</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5585">
+		<nombre>Januvia</nombre>
+		<precio>11</precio>
+		<fabricado_en>China</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5585">
+		<nombre>Pravastatin Sodium</nombre>
+		<precio>15</precio>
+		<fabricado_en>United States</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5585">
+		<nombre>Fluoxetine HCl</nombre>
+		<precio>11</precio>
+		<fabricado_en>Australia</fabricado_en>
+	</receta>
+	<receta codigoPaciente="5585">
+		<nombre>Loestrin 24 Fe</nombre>
+		<precio>12</precio>
+		<fabricado_en>Sweden</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2922">
+		<nombre>Losartan Potassium</nombre>
+		<precio>11</precio>
+		<fabricado_en>Austria</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2922">
+		<nombre>Spiriva Handihaler</nombre>
+		<precio>18</precio>
+		<fabricado_en>Spain</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2922">
+		<nombre>Trazodone HCl</nombre>
+		<precio>13</precio>
+		<fabricado_en>Netherlands</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2922">
+		<nombre>Abilify</nombre>
+		<precio>13</precio>
+		<fabricado_en>Italy</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2922">
+		<nombre>Azithromycin</nombre>
+		<precio>13</precio>
+		<fabricado_en>Sweden</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Zolpidem Tartrate</nombre>
+		<precio>17</precio>
+		<fabricado_en>Austria</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Albuterol</nombre>
+		<precio>13</precio>
+		<fabricado_en>Belgium</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Seroquel</nombre>
+		<precio>19</precio>
+		<fabricado_en>Italy</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Cheratussin AC</nombre>
+		<precio>10</precio>
+		<fabricado_en>Sweden</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Vytorin</nombre>
+		<precio>18</precio>
+		<fabricado_en>United Kingdom</fabricado_en>
+	</receta>
+	<receta codigoPaciente="9465">
+		<nombre>Tamsulosin HCl</nombre>
+		<precio>13</precio>
+		<fabricado_en>Belgium</fabricado_en>
+	</receta>
+	<receta codigoPaciente="4531">
+		<nombre>Lipitor</nombre>
+		<precio>15</precio>
+		<fabricado_en>France</fabricado_en>
+	</receta>
+	<receta codigoPaciente="4531">
+		<nombre>Cialis</nombre>
+		<precio>16</precio>
+		<fabricado_en>Norway</fabricado_en>
+	</receta>
+	<receta codigoPaciente="4531">
+		<nombre>Vyvanse</nombre>
+		<precio>15</precio>
+		<fabricado_en>Norway</fabricado_en>
+	</receta>
+	<receta codigoPaciente="4531">
+		<nombre>Clindamycin HCl</nombre>
+		<precio>14</precio>
+		<fabricado_en>United Kingdom</fabricado_en>
+	</receta>
+	<receta codigoPaciente="4531">
+		<nombre>Lantus</nombre>
+		<precio>17</precio>
+		<fabricado_en>Norway</fabricado_en>
+	</receta>
+	<receta codigoPaciente="1488">
+		<nombre>Amlodipine Besylate</nombre>
+		<precio>16</precio>
+		<fabricado_en>Australia</fabricado_en>
+	</receta>
+	<receta codigoPaciente="1488">
+		<nombre>Zolpidem Tartrate</nombre>
+		<precio>16</precio>
+		<fabricado_en>Norway</fabricado_en>
+	</receta>
+	<receta codigoPaciente="7030">
+		<nombre>Potassium Chloride</nombre>
+		<precio>16</precio>
+		<fabricado_en>United Kingdom</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2822">
+		<nombre>Metoprolol Succinatee</nombre>
+		<precio>15</precio>
+		<fabricado_en>Spain</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2822">
+		<nombre>Lantus Solostar</nombre>
+		<precio>16</precio>
+		<fabricado_en>Belgium</fabricado_en>
+	</receta>
+	<receta codigoPaciente="2822">
+		<nombre>Abilify</nombre>
+		<precio>14</precio>
+		<fabricado_en>Canada</fabricado_en>
+	</receta>
+</medicamentos>

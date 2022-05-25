@@ -1,0 +1,67 @@
+Medicamentos.xml
+
+	Nombre de los pacientes 36,46,28
+		Codigo ---> /recetas/receta/paciente
+		Resultado: 28 <paciente>Xavier Crawford</paciente>
+			   36 <paciente>Rudyard Daniel</paciente>
+			   46 <paciente>Sarah Butler</paciente>
+
+	El medicamento que toman los pacientes 15,35 y 8
+		Codigo ---> /recetas/receta/nombre
+		Resultado: 8 <nombre>Vitamin D (Rx)</nombre>
+			   15 <nombre>Namenda</nombre>
+			   35 <nombre>Famotidine</nombre>
+
+
+	El precio de los medicamentos que utilizan los 7 ultimos clientes.
+		Codigo ---> /recetas/receta/precio
+		Resultado: <destino>Netherlands</destino>
+			   <destino>France</destino>
+			   <destino>Austria</destino>
+<destino>Colombia</destino>
+
+
+Vehiculos.xml
+
+	Los 4 ultimos destinos
+		Codigo ---> /vehiculos/vehiculo/destino
+		Resultado: <destino>Netherlands</destino>
+			   <destino>France</destino>
+			   <destino>Austria</destino>
+			   <destino>Colombia</destino>
+
+	Los 10 primeros modelos
+		Codigo ---> /vehiculos/vehiculo/modelo
+		Resultado: <modelo>Chevrolet</modelo>
+			   <modelo>Ferrari</modelo>
+			   <modelo>Volkswagen</modelo>
+			   <modelo>Ford</modelo>
+			   <modelo>BMW</modelo>
+			   <modelo>Porsche</modelo>
+			   <modelo>Peugeot</modelo>
+			   <modelo>Ferrari</modelo>
+			   <modelo>Ferrari</modelo>
+			   <modelo>Seat</modelo>
+
+	Los nombres de los destinatarios 120, 70 y 65
+		Codigo ---> /vehiculos/vehiculo/destinatario
+		Resultado: 65 <destinatario>Adara Dunlap</destinatario>
+			   70 <destinatario>Jameson Harrison</destinatario>
+			   120 <destinatario>Jonah Goff</destinatario>
+			   
+
+
+	El correo electrónico de los destinatarios 99, 35 y 76
+		Codigo ---> /vehiculos/vehiculo/email
+		Resultado: 
+
+
+	Los 10 primeros identificadores
+
+Lenguajes
+
+	La valoracion de los 5 primeros lenguajes
+	El historioco de enero 2021 de los ultimos 5 lenguajes
+	El cambio de los lenguajes de programacion que ocupan un puesto impar
+	Los ultimos 4 lenguajes de programacion
+
